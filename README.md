@@ -80,7 +80,7 @@ Below is a gif showing the functionality of the application:
 - [Contact](#contact)
 
 ## Installation
-💾 This app has been deployed to Heroku, navigate to [Tech-Blog](https://shielded-thicket-93890.herokuapp.com/dashboard) to utilise it.
+💾 This app has been deployed to Heroku, navigate to [Book Search Engine](https://radiant-lowlands-37405.herokuapp.com/) to utilise it.
   
 ## Usage
 💻 Once you have landed on the home page, click login to log into your account. Subsequently you can navigate to the register page to create an account. Once successfully logged in the user can navigate to their dashboard where they can see all of their saved books as well as adding other books. 
