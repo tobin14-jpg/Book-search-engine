@@ -16,6 +16,8 @@
     <img src="https://img.shields.io/badge/-Heroku-lightgrey" />
     <img src="https://img.shields.io/badge/-GraphQL-brightgreen" />
     <img src="https://img.shields.io/badge/-Express.js-yellowgreen" />
+    <img src="https://img.shields.io/badge/-React-purple" />
+   
 
 
 </p>
